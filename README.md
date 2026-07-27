@@ -1,28 +1,6 @@
 
 # Hi there! 👋 I'm Ghazal
 
-```python
-class Ghazal:
-    def __init__(self):
-        self.location = "Iran 🇮🇷"
-        self.current_focus = "Data Engineering"
-        self.next_goal = "Embedded Linux Engineering"
-        self.learning = [
-            "Python",
-            "SQL",
-            "Data Engineering",
-            "Linux",
-            "Docker",
-            "Apache Spark",
-            "Apache Airflow"
-        ]
-        self.interests = [
-            "Distributed Systems",
-            "Cloud Technologies",
-            "Automation",
-            "Data Pipelines"
-        ]
-```
 
 ## 🚀 About Me
 
